@@ -12,3 +12,4 @@ This repo will have a simple nodejs and typescript config to start development i
 6. Added `commit-lint` configurations to manage the commit message validations.
 7. Added [Commitizen](https://www.npmjs.com/package/commitizen) for git commit with prompts.
 8. Added [Semantic Release](https://semantic-release.gitbook.io/semantic-release/) automate the release cycle
+9. Added Result object

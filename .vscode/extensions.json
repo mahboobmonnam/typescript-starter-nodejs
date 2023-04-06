@@ -6,6 +6,7 @@
         "streetsidesoftware.code-spell-checker",
         "dbaeumer.vscode-eslint",
         "DavidAnson.vscode-markdownlint",
-        "ChakrounAnas.turbo-console-log"
+        "ChakrounAnas.turbo-console-log",
+        "ms-azuretools.vscode-docker"
     ]
 }
